@@ -1,6 +1,9 @@
 ## Bem-vindo(a)! Eu me chamo João Pedro Medeiros e esse é meu github, espero que goste!
 </br>
 
+<p>Aluno da USP - Cursando Engenharia de Computação.</p>
+<p>Meus projetos são quase todos privados, trabalhando em um grande agora!</p>
+
  <div>
   <a href="https://github.com/joaoistfrei">
    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoistfrei&layout=compact&langs_count=16&theme=tokyonight"/>
